@@ -1,0 +1,6 @@
+{
+  "name": "Masa Health Club - Health & Beauty Salon in Faisalabad",
+  "description": "Premium health and beauty salon in Kohinoor City, Faisalabad. Offering expert hair styling, facials, waxing, manicures, body polishing, and herbal treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
